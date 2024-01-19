@@ -1,5 +1,6 @@
 # Leonardo Alvarenga Munaldi
-Futuro estudante de Análise e Desenvolvimento de Sistemas, 18 anos, admirador da tecnologia desde criança.
+- Desenvolvedor Front-End;
+- 18 anos;
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/leo_alvarenga777)
