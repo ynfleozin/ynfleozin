@@ -9,9 +9,6 @@ Estou em uma jornada contínua de aprendizado. Aqui estão algumas das tecnologi
 - Angular 
 - JavaScript
 - Java
-- MySQL
-- SpringBoot
-- Maven
 
 ## 🤝 Vamos Colaborar
 
