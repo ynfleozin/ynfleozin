@@ -84,7 +84,7 @@
 
   **Formação Backend com Java** \
   [**Dio.me**](https://www.dio.me/users/leo_alvarenga777)\
-  Linguagens & Tecnologias: `Java`, `Maven`, `Spring Framework`, ,`Banco de Dados Relacionais e Não Relacionais` 
+  Linguagens & Tecnologias: `Java`, `Maven`, `Spring Framework`, `Banco de Dados Relacionais e Não Relacionais` 
   <br/>
     <br/>
   
@@ -95,7 +95,7 @@
 
   **Formação Desenvolvimento Frontend com Angular** \
   [**Dio.me**](https://www.dio.me/users/leo_alvarenga777) \
-  Linguagens & Tecnologias: `Angular`, `JavaScript`, `Typescript`, ,`HTML` ,`CSS`, `Figma`, `Git`,`Github`
+  Linguagens & Tecnologias: `Angular`, `JavaScript`, `Typescript`, `HTML` ,`CSS`, `Figma`, `Git`,`Github`
 </div>
 
 #
