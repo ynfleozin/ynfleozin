@@ -81,19 +81,18 @@
   <br/>
   
   
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <br/>
 
   **Formação Backend com Java** \
   [**Dio.me**](https://www.dio.me/users/leo_alvarenga777)\
   Linguagens & Tecnologias: `Java`, `Maven`, `Spring Framework`, `Banco de Dados Relacionais e Não Relacionais` 
   <br/>
-    <br/>
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
- 
-
+  <br/>
 
   **Formação Desenvolvimento Frontend com Angular** \
   [**Dio.me**](https://www.dio.me/users/leo_alvarenga777) \
