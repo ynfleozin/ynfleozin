@@ -1,9 +1,6 @@
 <h2 align="left" > 
   <strong> Hello, World!✌ </strong>
 </h2>
-
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="assets/banner.gif" alt="" /></div>
-
 </br>
 
 <p align="left"><strong>Hi 👋! My name is Leonardo Alvarenga and I'm a FullStack from Brazil. 🇧🇷</strong></p>
