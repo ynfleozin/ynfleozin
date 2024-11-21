@@ -69,7 +69,7 @@
 <p align="left"><strong>Trainings and certificates</strong></p>
 
 <div>
-  <img src="https://scontent.fsdu8-2.fna.fbcdn.net/v/t39.30808-6/335398804_736473138209534_97013287188368562_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CHfaxDA7tLkQ7kNvgEQVNgb&_nc_ht=scontent.fsdu8-2.fna&oh=00_AYDM86K5_JdcR1abyuukvIk3VPGR7pCyfJ2ZMg0I_4oh7g&oe=6700E976" alt="Uninter Logo"
+  <img src="https://cdn.cookielaw.org/logos/688ab206-bbde-4ade-b903-8badbf96aa80/5f615f9d-1ca4-4d50-b2b9-5bea008cf46e/29ca3876-c401-4342-9f1b-e82a4932cc7e/Logo_uninter.png" alt="Uninter Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
   <br/>
  
@@ -78,7 +78,7 @@
   <br/>
   
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="DIO Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
   <br/>
 
@@ -87,7 +87,7 @@
   Linguagens & Tecnologias: `Java`, `Maven`, `Spring Framework`, `Banco de Dados Relacionais e Não Relacionais` 
   <br/>
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="DIO Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
   <br/>
 
