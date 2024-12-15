@@ -7,7 +7,7 @@
 
 #
 
-<p><strong>Font-end</strong></p>
+<p><strong>Front-end</strong></p>
 
 <div align="left">
   <img src="https://codeomelet.com/Media/Images/categories/angular.png" height="42" alt="angular logo" />
