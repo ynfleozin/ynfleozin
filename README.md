@@ -3,7 +3,7 @@
 </h2>
 </br>
 
-<p align="left"><strong>Hi 👋! My name is Leonardo Alvarenga and I'm a FullStack from Brazil. 🇧🇷</strong></p>
+<p align="left"><strong> I'm a FullStack Developer from Brazil. 🇧🇷</strong></p>
 
 #
 
