@@ -16,8 +16,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://img.jsdelivr.com/raw.githubusercontent.com/KingSora/OverlayScrollbars/master/packages/overlayscrollbars-react/logo.svg" height="42" alt="react logo"/>
-  <img width="12" />
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="42" alt="scss logo"/>
 </div>
 
