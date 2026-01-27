@@ -10,7 +10,7 @@
 <p><strong>Front-end</strong></p>
 
 <div align="left">
-  <img src="https://codeomelet.com/Media/Images/categories/angular.png" height="42" alt="angular logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" height="42" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
   <img width="12" />
