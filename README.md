@@ -10,7 +10,7 @@
 <p><strong>Front-end</strong></p>
 
 <div align="left">
-  <img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" height="42" alt="angular logo" />
+  <img src="https://imgs.search.brave.com/u5glIqYRcoWHyW7ogfOl6yaRWRXK3kOvejzuPWKKV88/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/bGJhcmJhcmEvbG9n/b3MvbWFpbi9sb2dv/cy9hbmd1bGFyLWlj/b24uc3Zn" height="42" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
   <img width="12" />
