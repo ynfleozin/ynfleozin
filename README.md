@@ -16,7 +16,7 @@ always focusing on clean architecture, maintainability, and real-world usability
 
 #### Front-end
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" height="40"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img width="10"/>
